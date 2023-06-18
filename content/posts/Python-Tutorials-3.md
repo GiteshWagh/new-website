@@ -12,7 +12,10 @@ tags = [
 +++
 
 # Operators in Python 
-```ruby
+### Operators are a symbol or small word which is useful to perform operations in Python programming.
+********************
+# Conditional / Comparison Operators in Python
+```
 Conditional / Comparison Operators in Python
 <   Greater Than symbol            1<2
 >   Smaller Than symbol            2>1
@@ -21,23 +24,27 @@ Conditional / Comparison Operators in Python
 ==  Equal To                       if (x == 10)
 !=  Not Equal To                   if(x != 10)
 ```
-**Conditional operators are a symbol or small word used when writing conditions. Conditional operators are also known as 'Comparision Operators'. Conditional Operators are one of the most essential operator types in Python.**
-
-```ruby
+**Conditional operators are symbols used when writing conditions. Conditional operators are also known as 'Comparision Operators'. Conditional Operators are one of the most essential operator types in Python.**
+*********************
+# Python Logical Operators
+```
 Python Logical Operators
 and      EX.if(i<10 and i2<20)
 or       EX.if(i<10 or i2<20)
 not      
 ```
 **We use logical operators in Python for giving more than two conditions in Python. Logical operators are also used while writing logic in Python that's why these operators are known as logical operators in Python.**
-```ruby
+*************
+# Python Identity Operators
+```
 Python Identity Operators
 is        Ex. x is y x=y=5
 is not    Ex.x is not y
 ```
-**Identity operators are used to comparing the object. We generally compare the value of variables with the use of an identity operator. Identity operator contain 'is' and 'is not'** 
-
-```ruby
+**Identity operators are used to comparing the object. We generally compare the value of variables with the use of an identity operator. Identity operator contain 'is' and 'is not'**
+****************************
+# Python Arithmetic Operators
+```
 Python Arithmetic Operators
 +   Add  
 -   Sub
@@ -48,15 +55,18 @@ Python Arithmetic Operators
 //  Floor division	    13//2 Original Ans - 6.5  Ans - 6
 ```
 **Arithmetic operators are also known as 'mathematical operators' in Python. We use them to perform mathematical operations**.
-```ruby
+***********************
+# Python Membership Operators
+```
 Python Membership Operators
 in 		  Ex. if(x in y)	
 not in	  Ex. if(x not in y)
 ```
 **Membership operators contain 'is' and 'is not'. We use it to show whether both variables same or not.**
-
-```ruby
-assignment operators in Python:- 
+***************************************
+# assignment operators in Python
+```
+assignment operators in Python 
 =   Simple assignment operator 
 +=  Add and equal operator
 -=  Subtract and equal operator 
@@ -67,7 +77,7 @@ assignment operators in Python:-
 ```
 **We use assignment operators while assigning values to variables.**
 
------------------------------
+***********************************
 
 
 Example Code For Conditional Operators:-
@@ -99,5 +109,6 @@ print(" 3 % 2")
 print(" 4**2")
 print(" 5//2")
 ```
-------------
+
+***************************************
 # Watch The Video Tutorial On Youtube:-
