@@ -143,14 +143,11 @@ icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/giteshwagh"
 
-
 [[params.social]]
 name = "YouTube"
 icon = "fa fa-2x fa-youtube"
 weight = 3
 url = "https://www.youtube.com/@TechnicalGamingZone"
-
-
 
 [[params.social]]
 name = "Facebook"
@@ -180,5 +177,3 @@ url = "projects/"
 name = "Contact me"
 weight = 5
 url = "contact/"
-
-
