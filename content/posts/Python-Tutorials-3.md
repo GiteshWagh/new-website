@@ -13,7 +13,7 @@ tags = [
 
 # Operators in Python 
 ```ruby
-Conditional / Comparison Operators in python
+Conditional / Comparison Operators in Python
 <   Greater Than symbol            1<2
 >   Smaller Than symbol            2>1
 <=  Equal To And Greater Than      if(i<=10)
@@ -21,7 +21,7 @@ Conditional / Comparison Operators in python
 ==  Equal To                       if (x == 10)
 !=  Not Equal To                   if(x != 10)
 ```
-**Conditional operators is a symbol or small word which we use when writing conditions. Conditional operators are also known as 'Comparision Operators'. Conditional Operators are one of the most important operator type in Python.**
+**Conditional operators are a symbol or small word used when writing conditions. Conditional operators are also known as 'Comparision Operators'. Conditional Operators are one of the most essential operator types in Python.**
 
 ```ruby
 Python Logical Operators
@@ -29,13 +29,13 @@ and      EX.if(i<10 and i2<20)
 or       EX.if(i<10 or i2<20)
 not      
 ```
-
+**We use logical operators in Python for giving more than two conditions in Python. Logical operators are also used while writing logic in Python that's why these operators are known as logical operators in Python.**
 ```ruby
 Python Identity Operators
-is        Ex. x is y x =y =5
+is        Ex. x is y x=y=5
 is not    Ex.x is not y
 ```
-**We use logical operators in Python for giving more than two conditions in python. Logical operators are also used while writing logic in Python that's why these operators are known as logical operators in Python.** 
+**Identity operators are used to comparing the object. We generally compare the value of variables with the use of an identity operator. Identity operator contain 'is' and 'is not'** 
 
 ```ruby
 Python Arithmetic Operators
