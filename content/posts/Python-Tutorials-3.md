@@ -50,9 +50,9 @@ Python Arithmetic Operators
 -   Sub
 *   Multiplication
 /   Division
-%	  Modulus		        Ex. 4%2 Ans-2 Remaining-0
+%	Modulus		         Ex. 4%2 Ans-2 Remaining-0
 **  Exponentiation		 Ex. 4**3 = Cube of 4
-//  Floor division	  Ex. 13//2 Original Ans - 6.5  Ans - 6
+//  Floor division	     Ex. 13//2 Original Ans - 6.5  Ans - 6
 ```
 **Arithmetic operators are also known as 'mathematical operators' in Python. We use them to perform mathematical operations**.
 ***********************
@@ -60,7 +60,7 @@ Python Arithmetic Operators
 ```
 Python Membership Operators
 in 		    Ex. if(x in y)	
-not in	  Ex. if(x not in y)
+not in	    Ex. if(x not in y)
 ```
 **Membership operators contain 'is' and 'is not'. We use it to show whether both variables same or not.**
 ***************************************
