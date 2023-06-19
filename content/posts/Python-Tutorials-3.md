@@ -16,7 +16,7 @@ tags = [
 ********************
 # Conditional / Comparison Operators in Python
 ```
-Conditional / Comparison Operators in Python
+Conditional / Comparison Operators In Python
 <   Greater Than symbol            1<2
 >   Smaller Than symbol            2>1
 <=  Equal To And Greater Than      if(i<=10)
@@ -29,8 +29,8 @@ Conditional / Comparison Operators in Python
 # Python Logical Operators
 ```
 Python Logical Operators
-and      EX.if(i<10 and i2<20)
-or       EX.if(i<10 or i2<20)
+and      Ex. if(i<10 and i2<20)
+or       Ex. if(i<10 or i2<20)
 not      
 ```
 **We use logical operators in Python for giving more than two conditions in Python. Logical operators are also used while writing logic in Python that's why these operators are known as logical operators in Python.**
@@ -39,7 +39,7 @@ not
 ```
 Python Identity Operators
 is        Ex. x is y x=y=5
-is not    Ex.x is not y
+is not    Ex. x is not y
 ```
 **Identity operators are used to comparing the object. We generally compare the value of variables with the use of an identity operator. Identity operator contain 'is' and 'is not'**
 ****************************
@@ -50,21 +50,21 @@ Python Arithmetic Operators
 -   Sub
 *   Multiplication
 /   Division
-%	Modulus		        4%2 Ans-2 Remaining-0
-**  Exponentiation		Ex. 4**3 = Cube of 4
-//  Floor division	    13//2 Original Ans - 6.5  Ans - 6
+%	  Modulus		        Ex. 4%2 Ans-2 Remaining-0
+**  Exponentiation		 Ex. 4**3 = Cube of 4
+//  Floor division	  Ex. 13//2 Original Ans - 6.5  Ans - 6
 ```
 **Arithmetic operators are also known as 'mathematical operators' in Python. We use them to perform mathematical operations**.
 ***********************
 # Python Membership Operators
 ```
 Python Membership Operators
-in 		  Ex. if(x in y)	
+in 		    Ex. if(x in y)	
 not in	  Ex. if(x not in y)
 ```
 **Membership operators contain 'is' and 'is not'. We use it to show whether both variables same or not.**
 ***************************************
-# assignment operators in Python
+# Assignment operators in Python
 ```
 assignment operators in Python 
 =   Simple assignment operator 
