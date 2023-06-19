@@ -82,9 +82,6 @@ assignment operators in Python
 
 Example Code For Conditional Operators:-
 {{< tabgroup align="right" style="code" >}}
-  {{< tab name="ruby" >}}
-
-  {{< /tab >}}
   {{< tab name="Python" >}}
 ```python
 x = 13
