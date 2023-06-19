@@ -81,7 +81,12 @@ assignment operators in Python
 
 
 Example Code For Conditional Operators:-
-```ruby
+{{< tabgroup align="right" style="code" >}}
+  {{< tab name="ruby" >}}
+
+  {{< /tab >}}
+  {{< tab name="Python" >}}
+```python
 x = 13
 if (x <= 13):
     print("X is smaller or equal to 13.")
@@ -98,6 +103,8 @@ elif (x != 1):
 else:
     print("Other Value")
 ```
+{{< /tab >}}
+{{< /tabgroup >}}
 
 Example Code For Conditional Operators:-
 ```ruby
