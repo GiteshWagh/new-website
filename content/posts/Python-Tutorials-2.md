@@ -1,6 +1,6 @@
 +++
 authors= "Gitesh Wagh"
-title = "Variables And DataTypes - Python Tutorials For Beginners #2"
+title = "Variables And DataTypes - Python Tutorials For Beginners #3"
 date = "2023-05-08"
 categories = "Python Programming"
 tags = [
