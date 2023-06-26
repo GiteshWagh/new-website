@@ -1,6 +1,6 @@
 +++
 authors= "Gitesh Wagh"
-title = " Basics Of Python - Python Tutorials For Beginners #1"
+title = " Basics Of Python - Python Tutorials For Beginners #2"
 date = "2023-04-25"
 categories = "Python Programming"
 tags = [
