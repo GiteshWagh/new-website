@@ -1,6 +1,6 @@
 +++
 authors= "Gitesh Wagh"
-title = " Installation and Setup of Python and VS Codium - Python Tutorials For Beginners"
+title = " Installation and Setup of Python and VS Codium - Python Tutorials For Beginners 1 "
 date = "2023-04-02"
 categories = "Python Programming"
 tags = [
