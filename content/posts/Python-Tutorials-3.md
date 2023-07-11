@@ -67,7 +67,7 @@ Python Arithmetic Operators
 ```
 **Arithmetic operators are also known as 'mathematical operators' in Python. We use them to perform mathematical operations**.
 ***********************
-# Python Membership Operators
+# Membership Operators
 ```
 Python Membership Operators
 in          Ex. if(x in y)
