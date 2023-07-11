@@ -16,14 +16,14 @@ Match Cases is a method for writing conditions in Python programming. Here, We c
 
 ```ruby
 
-               Methods For Creating Conditions
-                            |
-                            |
-   | ---------------------------------------------|
-   |                                              |
-   |                                              |
-   |                                              |
- If-Else Statements                         Match Cases
+                  Methods For Creating Conditions
+                               |
+                               |
+      | ---------------------------------------------|
+      |                                              |
+      |                                              |
+      |                                              |
+If-Else Statements                               Match Cases
                     
 ```
 {{< /notice >}}
