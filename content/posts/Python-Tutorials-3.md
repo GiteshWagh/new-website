@@ -11,9 +11,19 @@ tags = [
 ]
 +++
 {{< notice question >}}
-# Operators in Python 
+# What Are Operators in Python? 
 ### Operators are a symbol or small word which is useful to perform operations in Python programming.
+
+Type Of Operators:-
+1. Conditional Operators
+2. Logical Operators
+3. Identity Operators
+4. Arithmetic operators
+5. Membership operators
+6. Assignment operators
+7. Bitwise operator
 {{< /notice >}}
+
 ********************
 # Conditional / Comparison Operators in Python
 ```
@@ -27,7 +37,7 @@ Conditional / Comparison Operators In Python
 ```
 **Conditional operators are symbols used when writing conditions. Conditional operators are also known as 'Comparision Operators'. Conditional Operators are one of the most essential operator types in Python.**
 *********************
-# Python Logical Operators
+# Logical Operators
 ```
 Python Logical Operators
 and      Ex. if(i<10 and i2<20)
@@ -36,15 +46,15 @@ not
 ```
 **We use logical operators in Python for giving more than two conditions in Python. Logical operators are also used while writing logic in Python that's why these operators are known as logical operators in Python.**
 *************
-# Python Identity Operators
+# Identity Operators
 ```
 Python Identity Operators
 is        Ex. x is y x=y=5
 is not    Ex. x is not y
 ```
-**Identity operators are used to comparing the object. We generally compare the value of variables with the use of an identity operator. Identity operator contain 'is' and 'is not'**
+**Identity operators are used to compare the object. We generally compare the value of variables with the use of an identity operator. Identity operators contain 'is' and 'is not'**
 ****************************
-# Python Arithmetic Operators
+# Arithmetic Operators
 ```
 Python Arithmetic Operators
 +   Add  
