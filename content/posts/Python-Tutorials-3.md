@@ -10,9 +10,10 @@ tags = [
  "PythonTutorials"
 ]
 +++
-
+{{< notice question >}}
 # Operators in Python 
 ### Operators are a symbol or small word which is useful to perform operations in Python programming.
+{{< /notice >}}
 ********************
 # Conditional / Comparison Operators in Python
 ```
