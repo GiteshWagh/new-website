@@ -13,8 +13,8 @@ Tags = [
 {{< notice example >}
 Let’s create something different with Python!
 
-In this blog, we’ll be learning how to create a Python program to make a simple coin toss project. This project is perfect for beginners who want to learn how to use the Python programming language. In this tutorial, we’ll be learning how to create a coin toss program using the Python programming language. This program will allow us to randomly choose one of two outcomes.
- {{< /notice >}}
+In this blog, we’ll be learning how to create a Python program to make a simple coin toss project. This project is perfect for beginners who want to learn how to use the Python programming language. In this tutorial, we’ll be learning how to create a coin toss program using the Python programming language. This program will allow us to randomly choose one of two outcomes. {{< /notice >}}
+
 
 **Code :-**
 ```python
