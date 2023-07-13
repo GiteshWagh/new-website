@@ -1,7 +1,7 @@
 +++
 authors= "Gitesh Wagh"
 title = " Project 2: Calculator - Python Tutorials For Beginners #8"
-date = "2023-07-13"
+date = "2023-07-12"
 categories = "Python Programming"
 tags = [
   "Programming", 
