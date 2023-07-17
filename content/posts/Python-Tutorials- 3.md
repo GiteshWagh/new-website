@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 ------------------
-# Variables :-
+# Variables:-
 ```ruby
 Variabl1e1 = 24565876575678
 x = input()
@@ -25,11 +25,11 @@ print(2456555554646) # Method 2
 ```
 **We use variables many times instead of writing the value because we easily change the value of a variable in the whole code. We will quickly modify the value of a variable in the code if any issue is found.**
 
-# Rules For creating Variables :- 
-**1. Use pascal or camel cases to creating the variable. Ex. the_ New _Variable, TheNewVariable**
-**2. Don’t set the name of variable on any keyword for function in python.**
-**3. Name only contain alpha numerics and underscore.**
-**4. Names cannot starts with a number.** 
+# Rules For creating Variables:- 
+**1. Use Pascal or camel cases to create the variable. Ex. the_ New _Variable, TheNewVariable**
+**2. Don’t set the name of the variable on any keyword for a function in Python.**
+**3. The name only contains alphanumerics and underscores.**
+**4. Names cannot start with a number.** 
 
 ***********
 # Datatype :-
@@ -60,7 +60,7 @@ print("Type of g is", type(g))
 **Copy the code and paste it into your Python interpreter and run it. You will see the type of the variables.**
 ****
 
-### Watch The Video Tutorial On Youtube :-
+### Watch The Video Tutorial On Youtube:-
 
 {{< youtube 7CbkVqkS0yM >}}
 
