@@ -11,7 +11,7 @@ tags = [
 ]
 +++
 {{< notice question >}}
-# What is If-Else statement ?
+# WHAT IS MATCH CASES IN PYTHON?
 Match Cases is a method for writing conditions in Python programming. Here, We create conditions related to the value of a variable. In If-Else statements, we define the condition with the help of conditional operators. But, Here, In Match Cases the value of the variable is a condition. In Match Cases we write, What will happen when the value of a variable is 1,  2, 3, etc... This is only for example you will create a condition on any value of variable.
 
 ```ruby
