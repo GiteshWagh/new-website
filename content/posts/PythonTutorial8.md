@@ -1,6 +1,6 @@
 +++
 authors= "Gitesh Wagh"
-title = " Project 2: Calculator - Python Tutorials For Beginners #8"
+title = " Project 2: Calculator - Python Tutorials For Beginners 8"
 date = "2023-07-12"
 categories = "Python Programming"
 tags = [
@@ -10,6 +10,7 @@ tags = [
   "PythonTutorial"
 ]
 +++
+
 {{< notice info >}}
 About This Project:-
 The given code is Python code. I make a calculator with the help of Python programming language. This is the second project of the Python programming series. 
