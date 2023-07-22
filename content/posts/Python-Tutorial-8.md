@@ -1,7 +1,7 @@
 +++
 authors= "Gitesh Wagh"
-title = "Project 2: Calculator - Python Tutorials For Beginners #8"
-date = "2023-07-22"
+title = " Match Cases - Python Tutorials For Beginners #7"
+date = "2023-07-06"
 categories = "Python Programming"
 tags = [
   "Programming", 
