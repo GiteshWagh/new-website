@@ -1,7 +1,7 @@
 +++
 authors= "Gitesh Wagh"
-title = " Match Cases - Python Tutorials For Beginners #7"
-date = "2023-07-06"
+title = " Python Project 2 - Python Tutorials For Beginners #8"
+date = "2023-07-022"
 categories = "Python Programming"
 tags = [
   "Programming", 
@@ -10,7 +10,7 @@ tags = [
   "PythonTutorial"
 ]
 +++
-
+-----------------------------
 {{< notice info >}}
 About This Project:-
 The given code is Python code. I make a calculator with the help of Python programming language. This is the second project of the Python programming series. 
@@ -30,7 +30,6 @@ The project is divided into three parts, according to their work.
 {{< /notice >}}
 
 Code:-
-{{< tabgroup align="right" style="code" >}} {{< tab name="Python" >}}
 ```ruby
 # 1. Notice For User
 print("""\nUse 'add' for Addition.
@@ -63,4 +62,4 @@ elif (o == "power"):
 else:
     print("Invalid Input")
 ```
-{{< /tab >}} {{< /tabgroup >}}
+******************************************
