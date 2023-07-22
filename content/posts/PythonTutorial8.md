@@ -22,16 +22,16 @@ Used Concepts:-
 5. Operators
 6. Type Casting
 
-The project is divided into three parts. According to their work. 
+The project is divided into three parts, according to their work. 
 1. Notice For User:- This part contains a notice for a user to use the calculator.
-2. Variables and Data:- This part contain three variables and the number and operation provided by the user.
-3. Conditions:- This part contains If-Else statements. These conditions are logic of the script.
+2. Variables and Data:- This part contains three variables and the number and operation provided by the user.
+3. Conditions:- This part contains If-Else statements. These conditions are the logic of the script.
 {{< /notice >}}
 
 Code:-
 {{< tabgroup align="right" style="code" >}} {{< tab name="Python" >}}
 ```ruby
-# 1.Notice For User
+# 1. Notice For User
 print("""\nUse 'add' for Addition.
 Use 'sub' for Substraction.
 Use 'multi' for Multiplication.
