@@ -110,7 +110,7 @@ else :
 ````
 ******
 
-#**Project 4 : Calculator In Python**
+# **Project 4 : Calculator In Python**
 ````ruby
 # 1. Notice For User
 print("""\nUse 'add' for Addition.
