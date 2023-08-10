@@ -110,3 +110,38 @@ else :
 ````
 ******
 
+#**Project 4 : Calculator In Python**
+````ruby
+# 1. Notice For User
+print("""\nUse 'add' for Addition.
+Use 'sub' for Substraction.
+Use 'multi' for Multiplication.
+Use 'div' for Division.
+Use 'power' for Power Calculations.\n""")
+
+# 2.Variables And Data
+x = input("Enter The 1st Number : ")
+y = input("Enter The 2nd Number : ")
+o = input("Enter The Operation : ")
+
+# 3.Conditions
+if (o == "add"):
+    print(float(x) + float(y))
+
+elif (o == "sub"):
+    print(float(x) - float(y))
+
+elif (o == "multi"):
+    print(float(x) * float(y))
+
+elif (o == "div"):
+    print(float(x) / float(y))
+
+elif (o == "power"):
+    print(float(x) ** float(y)) 
+
+else:
+    print("Invalid Input")
+````
+
+**************************************
