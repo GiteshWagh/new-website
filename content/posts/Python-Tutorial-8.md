@@ -1,7 +1,7 @@
 +++
 authors= "Gitesh Wagh"
 title = " Python Project 2 - Python Tutorials For Beginners #8"
-date = "2023-07-02"
+date = "2023-07-22"
 categories = "Python Programming"
 tags = [
   "Programming", 
