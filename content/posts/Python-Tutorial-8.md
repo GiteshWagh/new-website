@@ -12,6 +12,7 @@ tags = [
 +++
 
 {{< notice info >}}
+
 About This Project:-
 The given code is Python code. I make a calculator with the help of Python programming language. This is the second project of the Python programming series. 
 
