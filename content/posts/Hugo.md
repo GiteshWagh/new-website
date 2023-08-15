@@ -150,6 +150,5 @@ docker pull klakegg/hugo
 ```
 
 ### Source:- https://gohugo.io/installation/macos/
-**************
-
+************************
 
