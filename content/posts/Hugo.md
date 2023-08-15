@@ -6,8 +6,7 @@ categories = "Web Development"
 tags = [ "Hugo", 
     "gohugo",  
     "HugoTutorial", 
-    "website"]  
-
+    "Website"]  
 +++
 
 Hey Guys👋,                                                                            
@@ -17,8 +16,8 @@ Let's Learn Something About World's fastest Framework For Website Development Hu
 # **What Is Hugo?**                                                                       
 
 **Hugo is the world's fastest framework for website building. Hugo is a fast and modern static site generator. Hugo is based on Go programing language. It supports multiple free hosting platforms like `Github, Gitlab, Netlify, etc.` Hugo provides us with various templates for web designing at zero cost. Hugo is one of the popular frameworks for building a website in a few minutes. Hugo uses `Go, HTML, CSS, etc.` for its rich content.**
-
 {{< /notice >}}
+
 ### Hugo Features:-
 ```
 1. Zero cost for building a website.
