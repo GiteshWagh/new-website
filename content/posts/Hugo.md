@@ -4,10 +4,10 @@ title = " Hugo : World's Fastest Framework For Website Building 🔥 "
 date = "2023-08-15" 
 categories = "Web Development" 
 tags = [ "Hugo", 
-    "Gohugo",  
+    "gohugo",  
     "HugoTutorial", 
-    "Website"  
-]
+    "website"]  
+
 +++
 
 Hey Guys👋,                                                                            
