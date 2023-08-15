@@ -1,6 +1,6 @@
 +++
 authors= "Gitesh Wagh"
-title = " Hugo : World's Fastest Framework For Website Building 🔥 " 
+title = " Hugo : World's Fastest Framework For Website Building " 
 date = "2023-08-15" 
 draft = false
 categories = "Web Development" 
