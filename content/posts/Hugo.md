@@ -24,7 +24,7 @@ Let's Learn Something About World's fastest Framework For Website Development Hu
 ```
 1. Zero cost for building a website.
 2. Free hosting.
-3. Fast speed( At <1ms per page ).
+3. Fast speed( At less than 1ms per page ).
 4. No coding skills are required.
 5. Secure and responsive site.
 6. Amazing themes and template support.
