@@ -1,27 +1,29 @@
 +++
 authors= "Gitesh Wagh"
-title = " Hugo : World's Fastest Framework For Website Building " 
+title = " Hugo : World's Fastest Framework For Website Building 🔥 " 
 date = "2023-08-15" 
 categories = "Web Development" 
 tags = [ "Hugo", 
-    "gohugo",  
+    "Gohugo",  
     "HugoTutorial", 
-    "website",  
-    "free"]
+    "Website"  
+]
 +++
 
 Hey Guys👋,                                                                            
 Let's Learn Something About World's fastest Framework For Website Development Hugo.
 
+{{< notice info >}}
 # **What Is Hugo?**                                                                       
 
 **Hugo is the world's fastest framework for website building. Hugo is a fast and modern static site generator. Hugo is based on Go programing language. It supports multiple free hosting platforms like `Github, Gitlab, Netlify, etc.` Hugo provides us with various templates for web designing at zero cost. Hugo is one of the popular frameworks for building a website in a few minutes. Hugo uses `Go, HTML, CSS, etc.` for its rich content.**
 
+{{< /notice >}}
 ### Hugo Features:-
 ```
 1. Zero cost for building a website.
 2. Free hosting.
-3. Fast speed( At less than 1ms per page ).
+3. Fast speed( At <1ms per page ).
 4. No coding skills are required.
 5. Secure and responsive site.
 6. Amazing themes and template support.
@@ -147,4 +149,5 @@ docker pull klakegg/hugo
 ```
 
 ### Source:- https://gohugo.io/installation/macos/
-************************
+
+**************
