@@ -169,7 +169,7 @@ weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "My Projects 👨‍💻"
+name = "My Projects 💻"
 weight = 3
 url = "projects/"
 
