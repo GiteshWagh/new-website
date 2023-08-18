@@ -159,27 +159,27 @@ url = "https://www.facebook.com/TechnicalGamingZone/"
 languageName = ":uk:"
 
 [[languages.en.menu.main]]
-name = "About"
+name = "About 😀"
 weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Blog"
+name = "Blog 📝 "
 weight = 2
 url = "posts/"
 
 [[languages.en.menu.main]]
-name = "My Projects"
+name = "My Projects 🛠️"
 weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact me 📞"
 weight = 5
 url = "contact/"
 
 [[languages.en.menu.main]]
-name = "Run Code🔥"
+name = "Run Code 🔥"
 weight = 4
 url = "runcode/"
 
