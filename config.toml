@@ -178,6 +178,12 @@ name = "Contact me"
 weight = 5
 url = "contact/"
 
+[[languages.en.menu.main]]
+name = "Run Code"
+weight = 5
+url = "runcode/"
+
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
