@@ -166,7 +166,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "📝Blog"
 weight = 2
-url = "Blogs/"
+url = "posts/"
 
 [[languages.en.menu.main]]
 name = "💻My Projects"
