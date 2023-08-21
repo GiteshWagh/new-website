@@ -5,8 +5,9 @@ slug = "Projects"
 --------
 
 # **Project 1 : Stone-Paper-Scissor Game In Python**
-
-```ruby
+{{< tabgroup align="right" style="code" >}}
+  {{< tab name="Python" >}}
+```python
 
 print("\nWellcom to Stone-Paper-Scissor\n")
 import random
@@ -39,11 +40,15 @@ elif (computers_choice == "Scissor" and Players_Choice == "Paper"):
  
 
 ```
+{{< /tab >}}
+{{< /tabgroup >}}
 
 ********
 
 # **Project 2 : Password Lock System In Python**
-````ruby
+{{< tabgroup align="right" style="code" >}}
+  {{< tab name="Python" >}}
+````python
 print("\nSet Your Profile.")
 ID = input("Enter Your ID 👉 : ")
 password = input("Set The Password 👉 : ")
@@ -66,9 +71,13 @@ if(y==password):
 else:
     print("❌Invalid Password❌")
 ````
+{{< /tab >}}
+{{< /tabgroup >}}
 ********
 # **Project 3 : Snake-Water-Gun Game In Python**
-````ruby
+{{< tabgroup align="right" style="code" >}}
+  {{< tab name="Python" >}}
+````python
 import random
 
 print("\nWellcome To Snake-Water-Gun Game !!!\n")
@@ -108,10 +117,14 @@ elif (Computers_Choice == "Gun" and Players_Choice == "Water"):
 else :
     print("Invalid Input")
 ````
+{{< /tab >}}
+{{< /tabgroup >}}
 ******
 
 # **Project 4 : Calculator In Python**
-````ruby
+{{< tabgroup align="right" style="code" >}}
+  {{< tab name="Python" >}}
+````python
 # 1. Notice For User
 print("""\nUse 'add' for Addition.
 Use 'sub' for Substraction.
@@ -143,11 +156,14 @@ elif (o == "power"):
 else:
     print("Invalid Input")
 ````
-
+{{< /tab >}}
+{{< /tabgroup >}}
 **************************************
 
 # **Project 5 : Snake Game In Python**
-```ruby
+{{< tabgroup align="right" style="code" >}}
+  {{< tab name="Python" >}}
+```python
 import math
 import random
 import pygame
@@ -345,3 +361,5 @@ def main():
 main()
 
 ```
+{{< /tab >}}
+{{< /tabgroup >}}
